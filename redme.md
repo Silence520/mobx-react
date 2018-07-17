@@ -5,7 +5,7 @@
 npm install --save-dev mobx
 npm install --save-dev mobx-react
 ```
-#### 穿建store
+#### 创建store
 ```javascript
 
 // index.js
@@ -68,5 +68,18 @@ export default class Home extends React.Component {
     ];
   }
 }
+
+```
+#### 运行该项目
+```javascript
+
+//下载项目
+git clone  https://github.com/Silence520/mobx-react.git
+
+//下载依赖
+npm install
+
+//启动环境
+npm start
 
 ```
