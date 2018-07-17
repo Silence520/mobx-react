@@ -1,4 +1,3 @@
-import { observable, action } from "mobx";
 import { observer,inject } from "mobx-react";
 import  './index.css';
 function headr(WrappedComponent) {
